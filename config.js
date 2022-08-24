@@ -5,24 +5,24 @@
 // RECODE BY RIEL OFC
 
 //=============『 Utama 』================== //
-global.owner = ['6285828764046'] 
-global.mods = ['6285828764046'] 
-global.prems = ['6285828764046'] 
+global.owner = ['6285172446692'] 
+global.mods = ['6285172446692'] 
+global.prems = ['6285172446692'] 
 
 //=============『 Info Owner 』============== //
 global.nameowner = 'Oᵂηʀ᭄๖ۣۣۜ𝙕𝙞𝙛𝙖𝙗𝙤𝙩𝙯_𝙊𝙛𝙛cོ1꧅'
-global.numberowner = '6285828764046'
+global.numberowner = '6285172446692'
 global.instagram = 'https://instagram.com/zalfapontianak'
-global.github = 'https://github.com/Botynyakamu'
-global.dana = '085828764046'
-global.pulsa = '085828764046'
-global.gopay = '085828764046'
+global.github = 'https://github.com/ImleviOfc'
+global.dana = '085172446692'
+global.pulsa = '085172446692'
+global.gopay = '085172446692'
 
 //=============『 Info Bot 』=================//
 global.namebot = '❋ཻུ۪۪⸙Zifabotz-MD⳹ ❋ཻུ۪۪'
-global.gc = 'https://chat.whatsapp.com/I8Q4oJVw8buHhIgMH5iVAv'
-global.web = 'https://instagram.com/zalfapontianak' //ubah jadi website lu, bisa link ig, link github, link yt, klo link gc ntr beda tampilan lagi. 
-global.webm = 'https://instagram.com/zalfapontianak'
+global.gc = 'https://chat.whatsapp.com/CElgl37YTIJKzugfUYIwX6'
+global.web = 'https://instagram.com/imleviofc?igshid=YmMyMTA2M2Y=' //ubah jadi website lu, bisa link ig, link github, link yt, klo link gc ntr beda tampilan lagi. 
+global.webm = 'https://instagram.com/imleviofc?igshid=YmMyMTA2M2Y='
 global.price1 = '𝐍𝐈𝐇 𝐁𝐀𝐍𝐆 𝐋𝐈𝐒𝐓 𝐒𝐄𝐖𝐀𝐍𝐘𝐀\n\n》PERMANEN Rp 10.000\nMAKSIMAL 2 GRUP\n》PERMANEN  Rp 20.000\nMAKSIMAL 6 GRUP \n》1 BULAN Rp 5.000\nMAKSIMAL 1 GRUP'
 
 //=======『 Tampilan Dan Lainnya 』============//
